@@ -26,9 +26,9 @@ I ❤️ to work with several technologies, but my very favourites are:
 
 
 ## 🔥 Here you can see some of my latest projects:
-1. **Ge3khub**: E-commerce that aims to provide products to the "geek" community, which includes third party log in, Stripe pay method and an Admin Dashboard. [repository](https://github.com/Guardianes-de-la-Tukineta) [deploy](https://ge3khub-shop-p9rv.vercel.app/).
+1. **Ge3khub**: E-commerce that aims to provide products to the "geek" community, which includes third party log in, Stripe pay method and an Admin Dashboard. [repository](https://github.com/Guardianes-de-la-Tukineta),  [deploy](https://ge3khub-shop-p9rv.vercel.app/).
 
-3. **Countries**: It is an application that consumes data from an API about countries, allows you to sort and filter the results, and also create activities associated with countries, [repository](https://github.com/juampi85/countries_proyecto_final_henry))
+3. **Countries**: It is an application that consumes data from an API about countries, allows you to sort and filter the results, and also create activities associated with countries,  [repository](https://github.com/juampi85/countries_proyecto_final_henry))
 
 
 
